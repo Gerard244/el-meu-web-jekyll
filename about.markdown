@@ -4,16 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Aquesta és la pàgina "Sobre nosaltres".
+Aquesta és la pàgina "Sobre nosaltres". Hem creat aquest lloc web com a projecte.
 
-## El nostre equip
+## 🧑‍💻 Sobre mi
 
-El nostre equip està format per experts.
+Sóc un estudiant aprenent a utilitzar **Jekyll** i **Markdown**. Aquest projecte m'ajuda a entendre com crear llocs web estàtics.
 
-* Expert en Jekyll
-* Expert en GitHub
-* Expert en Markdown
+Els meus objectius principals són:
+* Aprendre la sintaxi de Markdown.
+* Entendre el funcionament de Jekyll.
+* Publicar el lloc correctament a GitHub Pages.
 
-Ens agrada **treballar de valent** i també *ser creatius*.
+Crec que *la pràctica és la millor manera d'aprendre*.
 
-Pots visitar la nostra pàgina principal [aquí](/)
+Si vols veure més sobre la sintaxi de Markdown, pots visitar la [Guia oficial de Markdown](https://www.markdownguide.org/basic-syntax/).
