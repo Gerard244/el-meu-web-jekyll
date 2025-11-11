@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hola xavi ficam un 10! :)"
 date:   2025-11-11 17:30:00 +0100 
 categories: jekyll update
 ---
