@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hola xavi ficam un 10! :)"
+title:  "5 elements de la sintaxi avançada"
 date:   2025-11-11 17:30:00 +0100 
 categories: jekyll update
 ---
